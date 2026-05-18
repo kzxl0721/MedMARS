@@ -64,7 +64,7 @@ We release the expert-validated referring expression annotations used in Med-MAR
 
 | Dataset | Download Link |
 |---|---|
-| Kvasir-SEG Referring Annotations | [Google Drive]([你的链接](https://drive.google.com/drive/folders/1YC2hxnJOdqMvplg0pugF5wbm-KtjEs1S?usp=drive_link)) |
-| BUSI Referring Annotations | [Google Drive](你的链接) |
+| Kvasir-SEG Referring Annotations | [Google Drive]([]) |
+| BUSI Referring Annotations | [Google Drive](https://drive.google.com/drive/folders/1YC2hxnJOdqMvplg0pugF5wbm-KtjEs1S?usp=drive_link) |
 
 
