@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  Official PyTorch implementation of <b>Med-MARS</b><br>
   A training-time modifier-aware enhancement framework for medical referring image segmentation.
 </p>
 
