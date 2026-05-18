@@ -66,10 +66,13 @@ Med-MARS consistently produces more accurate and spatially precise segmentation 
 
 ---
 
-# Installation
+# Dataset Download
 
-## Create Environment
+We release the expert-validated referring expression annotations used in Med-MARS.
 
-```bash
-conda create -n medmars python=3.10
-conda activate medmars
+| Dataset | Download Link |
+|---|---|
+| Kvasir-SEG Referring Annotations | [Google Drive](你的链接) |
+| BUSI Referring Annotations | [Google Drive](你的链接) |
+
+
