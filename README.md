@@ -43,14 +43,6 @@ Both modules are only used during training and introduce **no inference-time ove
 
 ---
 
-# Framework
-
-<p align="center">
-  <img src="figures/framework.png" width="95%">
-</p>
-
----
-
 # Qualitative Results
 
 <p align="center">
